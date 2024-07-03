@@ -1,8 +1,9 @@
-# React + Vite
+# My Profile
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this project, you will see a card showing a brief summary of who I am. It will also have some links for you to access and get to know me better.
 
-Currently, two official plugins are available:
+Stacks used:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- JavaScript
+- React.JS
+- Material-UI
