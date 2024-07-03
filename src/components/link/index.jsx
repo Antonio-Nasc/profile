@@ -1,5 +1,4 @@
 import React from 'react';
-import Button from '@mui/material/Button';
 import Link from '@mui/material/Link';
 
 export default function LinkProfile({ linkName, href }) {
@@ -19,6 +18,7 @@ export default function LinkProfile({ linkName, href }) {
           textDecoration: 'none',
           mx: 1
         }}
+        target="_blank"
       >
         {linkName}
       </Link>
